@@ -1,0 +1,11 @@
+/* Custom global styles */
+body {
+  font-family: "Inter", sans-serif;
+  background-color: #f7fafc; /* Tailwind gray-100 */
+}
+
+h1,
+h2,
+h3 {
+  color: #1a202c; /* Tailwind gray-900 */
+}
